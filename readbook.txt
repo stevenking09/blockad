@@ -1,0 +1,1 @@
+$script,third-party,domain=86wxw.cc
